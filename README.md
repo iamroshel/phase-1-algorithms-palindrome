@@ -1,4 +1,4 @@
-# Palindrome Lab
+# Palindrome Lab c
 
 ## Learning Goals
 
